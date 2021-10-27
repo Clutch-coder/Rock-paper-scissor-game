@@ -2,7 +2,7 @@
 # How to contribute  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </a>
 
-- Fork this [repo](https://github.com/swaaz/basicprograms)
+- Fork this [repo](https://github.com/Clutch-coder/Rock-paper-scissor-game)
 
 - Clone it using command :
 <pre> $ git clone paste_the_copied_url.</pre>
